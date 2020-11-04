@@ -1,0 +1,25 @@
+PS C:\Users\kabbe\desktop\GIT-Labb1> git log
+commit 4990d6455c8175d58d17e69e67108b6b64ad4f38 (HEAD -> main)
+Merge: c3bee5b 033a882
+Author: Kabbej <kabbe.jartun@gmail.com>
+Date:   Wed Nov 4 12:30:04 2020 +0100
+
+    Merge branch 'log' into main
+
+commit 033a882b452fd2062566980dfe929a39c6c8dad3 (origin/log, log)
+Author: Kabbej <kabbe.jartun@gmail.com>
+Date:   Wed Nov 4 12:29:00 2020 +0100
+
+    added git-log
+
+commit c3bee5b8e1624d17f6741979399746735ec01b18 (origin/main)
+Author: Kabbej <kabbe.jartun@gmail.com>
+Date:   Wed Nov 4 12:22:30 2020 +0100
+
+    branch merge
+
+commit 11bfe3d3beb11f1b55a919c87993acaa8fb485a4 (second)
+Author: Kabbej <kabbe.jartun@gmail.com>
+Date:   Wed Nov 4 12:06:45 2020 +0100
+
+    initial commit
